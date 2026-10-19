@@ -8,7 +8,7 @@ link from PD to **expected loss, Basel IRB capital and stress scenarios**.
 
 Everything (WoE binning, IV selection, score scaling, IRB formula, stress engine) is
 implemented from first principles in about 1,100 lines of Python on top of `scikit-learn`.
-
+*Code developed with AI coding assistance.
 ## Results
 
 <!-- RESULTS:START -->
